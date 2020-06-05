@@ -1,2 +1,2 @@
 # DemoProject-6
-this page consists of rules for designing a static page
+This repository consists of rules how to design
